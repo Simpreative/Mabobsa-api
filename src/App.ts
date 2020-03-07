@@ -1,3 +1,4 @@
+import "./libs/Dotenv"
 import { WebApplication } from "./bin/www"
 
 const port = process.env.PORT || 3000
