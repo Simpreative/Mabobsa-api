@@ -1,0 +1,24 @@
+{
+  "name": "mabobsa-api",
+  "version": "1.0.0",
+  "description": "A lightweight api server for Mabobsa project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/App.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simpreative/Mabobsa-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simpreative/Mabobsa-api/issues"
+  },
+  "homepage": "https://github.com/Simpreative/Mabobsa-api#readme",
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
